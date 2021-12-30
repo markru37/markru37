@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 😄 About me 
+
+✌️ My name is Mark, I am 19 years old. I just started learning programming, trying different technologies.
+
+🎓  At the moment, I can do a responsive layout and make a simple backend in python.
+I am studying now:
+![JavaScript](https://img.shields.io/badge/-JavaScript-003f5c?style=for-the-badge&logo=appveyor)
+![React](https://img.shields.io/badge/-JavaScript-003f5c?style=for-the-badge&logo=appveyor)
+
+## 📈 GitHub Stats
+
+![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=enjirouz&count_private=true&hide=contribs&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjirouz&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
