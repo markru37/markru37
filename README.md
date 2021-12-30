@@ -12,8 +12,8 @@
 ![React](https://img.shields.io/badge/-React-003f5c?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-003f5c?style=for-the-badge&logo=Redux)
 ## IDE
-![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code-003f5c?style=for-the-badge&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/-Visual Studio-003f5c?style=for-the-badge&logo=visual-studio)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-003f5c?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-003f5c?style=for-the-badge&logo=visual-studio)
 ## 📈 GitHub Stats
 [![markru37 github stats](https://github-readme-stats.vercel.app/api?username=markru37&show_icons=true&theme=cobalt)](https://github.com/markru37?tab=repositories)
 ## Social 🤝
