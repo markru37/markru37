@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I am studying now:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-003f5c?style=for-the-badge&logo=appveyor)
-![React](https://img.shields.io/badge/-React-003f5c?style=for-the-badge&logo=appveyor)
+![Python](https://img.shields.io/badge/-Python-003f5c?style=for-the-badge&logo=appveyor)
 
 ## 📈 GitHub Stats
 
