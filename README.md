@@ -27,7 +27,3 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-003f5c?style=for-the-badge&logo=Python)
 ![React](https://img.shields.io/badge/-React-003f5c?style=for-the-badge&logo=React)
 
-## 📈 GitHub Stats
-
-![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=markru37&count_private=true&hide=contribs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markru37&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
