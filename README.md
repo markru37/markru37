@@ -13,3 +13,4 @@
 ![Redux](https://img.shields.io/badge/-Redux-003f5c?style=for-the-badge&logo=Redux)
 ## 📈 GitHub Stats
 [![markru37 github stats](https://github-readme-stats.vercel.app/api?username=markru37&show_icons=true&theme=cobalt)](https://github.com/markru37?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markru37&layout=compact)](https://github.com/markru37/github-readme-stats)
