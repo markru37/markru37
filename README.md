@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 🎓  At the moment, I can do a responsive layout and make a simple backend in python.
 I am studying now:
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-003f5c?style=for-the-badge&logo=appveyor)
-![React](https://img.shields.io/badge/-JavaScript-003f5c?style=for-the-badge&logo=appveyor)
+![React](https://img.shields.io/badge/-React-003f5c?style=for-the-badge&logo=appveyor)
 
 ## 📈 GitHub Stats
 
