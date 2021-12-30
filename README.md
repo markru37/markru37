@@ -14,3 +14,5 @@
 ## 📈 GitHub Stats
 [![markru37 github stats](https://github-readme-stats.vercel.app/api?username=markru37&show_icons=true&theme=cobalt)](https://github.com/markru37?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markru37&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Write me
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/trapismyup)
