@@ -12,4 +12,4 @@
 ![React](https://img.shields.io/badge/-React-003f5c?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-003f5c?style=for-the-badge&logo=Redux)
 ## 📈 GitHub Stats
-[![markru37 github stats](https://github-readme-stats.vercel.app/api?username=markru37t&show_icons=true&theme=cobalt)](https://github.com/markru37?tab=repositories)
+[![markru37 github stats](https://github-readme-stats.vercel.app/api?username=markru37&show_icons=true&theme=cobalt)](https://github.com/markru37?tab=repositories)
