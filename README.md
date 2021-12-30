@@ -10,4 +10,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-003f5c?style=for-the-badge&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-003f5c?style=for-the-badge&logo=Python)
 ![React](https://img.shields.io/badge/-React-003f5c?style=for-the-badge&logo=React)
-
+![Redux](https://img.shields.io/badge/-React-003f5c?style=for-the-badge&logo=Redux)
