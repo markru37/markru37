@@ -18,7 +18,5 @@ I bring order to the chaos,constantly develop, future full-stack developer
 ## IDE
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-003f5c?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI5NnB4IiBoZWlnaHQ9Ijk2cHgiPjxwYXRoIGZpbGw9IiMyOWI2ZjYiIGQ9Ik00NCwxMS4xMXYyNS43OGMwLDEuMjctMC43OSwyLjQtMS45OCwyLjgybC04LjgyLDQuMTRMMzQsMzNWMTVMMzMuMiw0LjE1bDguODIsNC4xNCBDNDMuMjEsOC43MSw0NCw5Ljg0LDQ0LDExLjExeiIvPjxwYXRoIGZpbGw9IiMwMjc3YmQiIGQ9Ik05LDMzLjg5NkwzNCwxNVY1LjM1M2MwLTEuMTk4LTEuNDgyLTEuNzU4LTIuMjc1LTAuODZMNC42NTgsMjkuMjM5IGMtMC45LDAuODMtMC44NDksMi4yNjcsMC4xMDcsMy4wMzJjMCwwLDEuMzI0LDEuMjMyLDEuODAzLDEuNTc0QzcuMzA0LDM0LjM3LDguMjcxLDM0LjQzLDksMzMuODk2eiIvPjxwYXRoIGZpbGw9IiMwMjg4ZDEiIGQ9Ik05LDE0LjEwNEwzNCwzM3Y5LjY0N2MwLDEuMTk4LTEuNDgyLDEuNzU4LTIuMjc1LDAuODZMNC42NTgsMTguNzYxIGMtMC45LTAuODMtMC44NDktMi4yNjcsMC4xMDctMy4wMzJjMCwwLDEuMzI0LTEuMjMyLDEuODAzLTEuNTc0QzcuMzA0LDEzLjYzLDguMjcxLDEzLjU3LDksMTQuMTA0eiIvPjwvc3ZnPg%3D%3D)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-003f5c?style=for-the-badge&logo=visual-studio)
-## 📈 GitHub Stats
-![markru37 github stats](https://github-readme-stats.vercel.app/api?username=markru37&show_icons=true&theme=radical)
 ## Social 🤝
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/trapismyup)
