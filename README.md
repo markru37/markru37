@@ -1,4 +1,4 @@
-# 👋 Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=markru37) 
+# 👋 Welcome
 I bring order to the chaos,constantly develop, Frontend developer
 ## 😄 About me 
 
